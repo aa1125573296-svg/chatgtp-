@@ -1,0 +1,12 @@
+user_data/
+__pycache__/
+*.pyc
+.env
+registered_success.txt
+accounts.txt
+accounts.csv
+debug_result.log
+fetch_code_local.log
+*.txt
+*.csv
+*.log
